@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LRjunior (Ladislav Rado)
 - 👀 I’m interested in Unsupervised Learning PLSA
-- 🌱 I’m currently learning Julia, V
+- 🌱 I’m currently learning [Julia](http://julialang.org/), [V](http://vlang.io/)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me lr@rsw.sk
 
